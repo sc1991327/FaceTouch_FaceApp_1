@@ -1,0 +1,16 @@
+﻿Build started 3/9/2015 2:21:44 PM.
+     1>Project "C:\sc\oscpack_1_1_0\build\OscDump.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/sc/oscpack_1_1_0/CMakeLists.txt
+         CMake does not need to re-run because C:\sc\oscpack_1_1_0\build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\sc\oscpack_1_1_0 /Zi /nologo /W4 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OscDump.dir\Debug\\" /Fd"OscDump.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt C:\sc\oscpack_1_1_0\examples\OscDump.cpp
+         OscDump.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sc\oscpack_1_1_0\build\Debug\OscDump.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib Debug\oscpack.lib Ws2_32.lib winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/sc/oscpack_1_1_0/build/Debug/OscDump.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/sc/oscpack_1_1_0/build/Debug/OscDump.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug OscDump.dir\Debug\OscDump.obj
+         OscDump.vcxproj -> C:\sc\oscpack_1_1_0\build\Debug\OscDump.exe
+     1>Done Building Project "C:\sc\oscpack_1_1_0\build\OscDump.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.07

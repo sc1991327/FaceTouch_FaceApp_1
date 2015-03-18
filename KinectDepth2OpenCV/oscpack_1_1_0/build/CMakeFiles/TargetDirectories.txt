@@ -1,0 +1,9 @@
+C:/sc/oscpack_1_1_0/build/CMakeFiles/oscpack.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/SimpleReceive.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/ALL_BUILD.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/OscSendTests.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/OscReceiveTest.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/ZERO_CHECK.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/SimpleSend.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/OscDump.dir
+C:/sc/oscpack_1_1_0/build/CMakeFiles/OscUnitTests.dir

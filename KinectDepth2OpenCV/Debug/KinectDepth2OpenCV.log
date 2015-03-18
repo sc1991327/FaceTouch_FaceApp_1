@@ -1,0 +1,22 @@
+﻿Build started 3/17/2015 12:51:59 PM.
+     1>Project "C:\sc\KinectDepth2OpenCV-v1\KinectDepth2OpenCV\KinectDepth2OpenCV.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\sc\KinectDepth2OpenCV\KinectDepth2OpenCV\oscpack_1_1_0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(296): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(303): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(358): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(727): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(747): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(749): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\sc\kinectdepth2opencv-v1\kinectdepth2opencv\main.cpp(821): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sc\KinectDepth2OpenCV-v1\Debug\KinectDepth2OpenCV.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\sc\KinectDepth2OpenCV\KinectDepth2OpenCV\oscpack_1_1_0\build\Debug Dwrite.lib kinect20.lib Kinect20.Face.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib Debug\oscpack.lib Ws2_32.lib winmm.lib odbc32.lib odbccp32.lib opencv_core2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_features2d2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\sc\KinectDepth2OpenCV-v1\Debug\KinectDepth2OpenCV.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\sc\KinectDepth2OpenCV-v1\Debug\KinectDepth2OpenCV.lib" /MACHINE:X86 Debug\main.obj
+         KinectDepth2OpenCV.vcxproj -> C:\sc\KinectDepth2OpenCV-v1\Debug\KinectDepth2OpenCV.exe
+     1>Done Building Project "C:\sc\KinectDepth2OpenCV-v1\KinectDepth2OpenCV\KinectDepth2OpenCV.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.26
